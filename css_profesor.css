@@ -1,0 +1,39 @@
+h2 {
+    color: #007BFF;
+}
+.aprobado {
+    color: green;
+    font-weight: bold;
+}
+
+
+.reprobado {
+    color: red;
+    font-weight: bold;
+}
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2%; /* Puedes ajustar este valor según tus necesidades */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 1em; /* Otra unidad relativa, ajusta según sea necesario */
+    text-align: left;
+}
